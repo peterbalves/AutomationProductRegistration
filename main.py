@@ -3,7 +3,7 @@ import pandas as pd
 import time
 
 pyautogui.PAUSE=1
-link = 'https://dlp.hashtagtreinamentos.com/python/intensivao/login'
+link = ''
 tabela = pd.read_csv('produtos.csv')
 def position():
     time.sleep(5)
